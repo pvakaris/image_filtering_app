@@ -28,6 +28,8 @@ Processsed images will be saved in the root directory.
 
 Vakaris Paulavičius
 
+Ian Kenny
+
 Version 1.0
 
 
