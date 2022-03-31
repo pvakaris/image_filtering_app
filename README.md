@@ -16,19 +16,17 @@ It also processes multiple images simultaneously.
 
 ## How to use
 
-Upload all the images you want to process to the /img directory
+Upload all the images you want to process to the /img directory.
 
-Specify the filter you want to apply at the top of the ImageProcessorApplicationMT class source code
+Specify the filter you want to apply at the top of the ImageProcessorApplicationMT class source code.
 
-Run the ImageProcessorApplicationMT main method
+Run the ImageProcessorApplicationMT main method.
 
 Processsed images will be saved in the root directory.
 
 ##
 
-Vakaris Paulavičius
-
-Ian Kenny
+Vakaris Paulavičius and Ian Kenny
 
 Version 1.0
 
